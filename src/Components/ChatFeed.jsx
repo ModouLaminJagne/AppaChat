@@ -35,7 +35,6 @@ const ChatFeed = (props) => {
       );
     });
   };
-  // renderMessages(); 
 
   if (!chat) return 'loading...';
 
