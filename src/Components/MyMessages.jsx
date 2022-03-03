@@ -9,6 +9,7 @@ const MyMessages = ({ message }) => {
       />
     );
   }
+  
   return (
     <div
       className="message"
