@@ -20,27 +20,6 @@ const MessageForm = (props) => {
     isTyping(props, chatId);
   };
 
-//     const handleRemoveItem = (e) => {
-//    const name = e.target.getAttribute("name")
-//     updateList(list.filter(item => item.name !== name));
-  
-
-//   return (
-//             <div>
-//             {list.map(item => {
-//                 return (
-//                 <>
-//                     <span name={item.name} onClick={handleRemoveItem}>
-//                     x
-//                     </span>
-//                     <span>{item.name}</span>
-//                 </>
-//                 );
-//             })}
-//             </div>
-//         )
-//     };
-    
 
   const handleUpload = (event) => {
     sendMessage(creds, chatId, { files: event.target.files, text: '' });
@@ -72,9 +51,7 @@ const MessageForm = (props) => {
           <SendOutlined className="send-icon" />
         </button>
       </form>
-      {/* <button className="delete-button">
-              <DeleteOutlined className='delete-icon'/>
-      </button> */}
+     
     </div>
   );
 };
