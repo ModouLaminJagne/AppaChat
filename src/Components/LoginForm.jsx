@@ -50,7 +50,7 @@ const LoginForm = () => {
           />
           <div align="center">
             <button type="submit" className="button">
-              <span>ChatHere</span>
+              <span>Chat</span>
             </button>
             <h2 className="error">{error}</h2>
           </div>
