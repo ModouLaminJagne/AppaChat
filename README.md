@@ -1,8 +1,11 @@
-### AppaChat
+# AppaChat
+
 This is a chat app created with react and styled with bootstrap.
 I connected to chat engine to server as backend and database.
+It requires user authentication for usage.
 
-# Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
