@@ -1,5 +1,6 @@
 ### AppaChat
 This is a chat app created with react and styled with bootstrap.
+I connected to chat engine to server as backend and database.
 
 # Getting Started with Create React App
 
