@@ -5,6 +5,8 @@ I connected to chat engine to server as backend and database.
 It requires user authentication for usage.
 You'll need to visit chat engine's website to be able to use the backend services.
 
+**Below are available script that you can use to operate the app**
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
