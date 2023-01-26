@@ -6,6 +6,7 @@ It requires user authentication for usage.
 You'll need to visit chat engine's website to be able to use the backend services.
 
 **Below are available script that you can use to operate the app**
+Don't forget to install any required dependencies.
 
 ## Getting Started with Create React App
 
